@@ -1,6 +1,6 @@
 baseURL = 'https://confconf.org/'
 languageCode = 'en-us'
-title = ''
+title = 'ConfConf'
 theme = 'geekdoc'
 
 pluralizeListTitles = false

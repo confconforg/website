@@ -179,15 +179,15 @@ pluralizelisttitles = false
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
-    mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    author = "ConfConf Team"
+    defaultKeywords = ["confconf"]
+    mainSections = []
+    defaultDescription = "ConfConf is a free conference for organisers of conferences around free and open source software and hardware."
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
-    twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/sharing-default.png"
+    twitter_site = "" # the Twitter handle of your site (without the '@')
+    default_sharing_image = ""
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = false
@@ -246,7 +246,7 @@ pluralizelisttitles = false
 
     logo = "logo.svg"
     logo_small = "logo.svg"
-    contact_url = "/contact"
+    contact_url = "/contact/"
     address = """<p class="text-uppercase"><strong>ConfConf</strong>
         <br>Guldendelle 9
         <br>1930 Zaventem

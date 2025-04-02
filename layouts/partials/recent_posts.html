@@ -1,0 +1,54 @@
+{{ if isset .Site.Params "recent_posts" }}
+<section class="bar background-white no-mb">
+    <div class="container">
+
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2 id="recent_posts">About ConfConf</h2>
+            </div>
+
+            <p class="lead">
+              {{ .Site.Params.recent_posts.about | markdownify }}
+            </p>
+            <p class="text-center">
+                <a href="/about/" class="btn btn-template-main btn-lg">
+                    More information
+                </a>
+            </p>
+
+        </div>
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>Practical</h2>
+            </div>
+
+            <p class="lead">
+              {{ .Site.Params.recent_posts.practical | markdownify }}
+            </p>
+            <p class="text-center">
+                <a href="/practical/" class="btn btn-template-main btn-lg">
+                    More information
+                </a>
+            </p>
+
+        </div>
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>Program</h2>
+            </div>
+
+            <p class="lead">
+              {{ .Site.Params.recent_posts.program | markdownify }}
+            </p>
+            <p class="text-center">
+                <a href="/program/" class="btn btn-template-main btn-lg">
+                    More information
+                </a>
+            </p>
+
+        </div>
+    </div>
+    <!-- /.container -->
+</section>
+<!-- /.bar -->
+{{ end }}

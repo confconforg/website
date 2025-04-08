@@ -4,7 +4,7 @@ title: ConfConf
 
 ConfConf is a free conference for organisers of conferences around free and open source software and hardware.
 
-The first edition, ConfConf 0, will take place in Sofia (Bulgaria) on June 14th and 15th 2025.
+The first edition, ConfConf 0, will take place in Sofia (Bulgaria) on July 5th and 6th 2025.
 
 The idea is simple: a free, unconference-style gathering where we share experiences, challenges, and ideas about organizing FOSS events. We know a lot of us are struggling with the same challenges, and we hope that by getting together, we can all learn from another.
 

@@ -327,7 +327,7 @@ pluralizelisttitles = false
 [params.recent_posts]
     enable = false
     about = "The idea is simple: a free, unconference-style gathering where we share experiences, challenges, and ideas about organizing FOSS events. We know a lot of us are struggling with the same challenges, and we hope that by getting together, we can all learn from another."
-    practical = "The first edition, ConfConf 0, will take place in Sofia (Bulgaria) on the 5th and 6th of July 2025. The first edition is by invitation only."
+    practical = "The first edition, ConfConf 0, will take place in Sofia (Bulgaria) on the 5th and 6th of July 2025. See our tickets page for more information."
     program = "The event will be kickstarted with an opening keynote, and each day will be wrapped up with a summary session — but beyond that, the content will come from the participants."
 
     hide_summary = false

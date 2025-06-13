@@ -24,104 +24,7 @@ enableRobotsTXT = true
     startLevel = 1
     endLevel = 9
 
-[geektaxonomies]
-   tag = "tags"
-
-[geekcaches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
-[geekparams]
-  # (Optional, default 6) Set how many table of contents levels to be showed on page.
-  # Use false to hide ToC, note that 0 will default to 6 (https://gohugo.io/functions/default/)
-  # You can also specify this parameter per page in front matter.
-  geekdocToC = 3
-
-  # (Optional, default static/brand.svg) Set the path to a logo for the Geekdoc
-  # relative to your 'static/' folder.
-  geekdocLogo = 'logo.svg'
-
-  # (Optional, default false) Render menu from data file in 'data/menu/main.yaml'.
-  # See also https://geekdocs.de/usage/menus/#bundle-menu.
-  geekdocMenuBundle = false
-
-  # (Optional, default false) Collapse all menu entries, can not be overwritten
-  # per page if enabled. Can be enabled per page via 'geekdocCollapseSection'.
-  geekdocCollapseAllSections = true
-
-  # (Optional, default true) Show page navigation links at the bottom of each docs page.
-  geekdocNextPrev = false
-
-  # (Optional, default true) Show a breadcrumb navigation bar at the top of each docs page.
-  # You can also specify this parameter per page in front matter.
-  geekdocBreadcrumb = false
-
-  # (Optional, default false) Show last modification date of the page in the header.
-  # Keep in mind that last modification date works best if `enableGitInfo` is set to true.
-  geekdocPageLastmod = false
-
-  # (Optional, default true) Enables search function with flexsearch.
-  # Index is built on the fly and might slow down your website.
-  geekdocSearch = true
-
-  # (Optional, default false) Display search results with the parent folder as prefix. This
-  # option allows you to distinguish between files with the same name in different folders.
-  # NOTE: This parameter only applies when 'geekdocSearch = true'.
-  geekdocSearchShowParent = true
-
-  # (Optional, default none) Add a link to your Legal Notice page to the site footer.
-  # It can be either a remote url or a local file path relative to your content directory.
-  geekdocLegalNotice = "/legal"
-
-  # (Optional, default none) Add a link to your Privacy Policy page to the site footer.
-  # It can be either a remote url or a local file path relative to your content directory.
-  geekdocPrivacyPolicy = "/privacy"
-
-  # (Optional, default true) Add an anchor link to headlines.
-  geekdocAnchor = true
-
-  # (Optional, default true) Copy anchor url to clipboard on click.
-  geekdocAnchorCopy = true
-
-  # (Optional, default true) Enable or disable image lazy loading for images rendered
-  # by the 'img' shortcode.
-  geekdocImageLazyLoading = true
-
-  # (Optional, default false) Set HTMl <base> to .Site.Home.Permalink if enabled. It might be required
-  # if a subdirectory is used within Hugos BaseURL.
-  # See https://developer.mozilla.org/de/docs/Web/HTML/Element/base.
-  geekdocOverwriteHTMLBase = false
-
-  # (Optional, default true) Enable or disable the JavaScript based color theme toggle switch. The CSS based
-  # user preference mode still works.
-  geekdocDarkModeToggle = false
-
-  # (Optional, default false) Auto-decrease brightness of images and add a slightly grayscale to avoid
-  # bright spots while using the dark mode.
-  geekdocDarkModeDim = false
-
-  # (Optional, default false) Enforce code blocks to always use the dark color theme.
-  geekdocDarkModeCode = false
-
-  # (Optional, default true) Display a "Back to top" link in the site footer.
-  geekdocBackToTop = true
-
-  # (Optional, default false) Enable or disable adding tags for post pages automatically to the navigation sidebar.
-  geekdocTagsToMenu = true
-
-  # (Optional, default 'title') Configure how to sort file-tree menu entries. Possible options are 'title', 'linktitle',
-  # 'date', 'publishdate', 'expirydate' or 'lastmod'. Every option can be used with a reverse modifier as well
-  # e.g. 'title_reverse'.
-  geekdocFileTreeSortBy = "title"
-
-  # (Optional, default none) Adds a "Content licensed under <license>" line to the footer.
-  # Could be used if you want to define a default license for your content.
-  [params.geekdocContentLicense]
-    name = "CC BY-SA 4.0"
-    link = "https://creativecommons.org/licenses/by-sa/4.0/"
-
 # Universal settings
-
 
 # number of words of summarized post content (default 70)
 summaryLength = 70
@@ -152,33 +55,21 @@ pluralizelisttitles = false
     weight     = 4
 
 [[menu.main]]
-    name       = "Legal"
-    url        = "/legal/"
-    weight     = 7
+    name       = "Accommodation"
+    url        = "/accommodation/"
+    weight     = 5
 
-
-
-[services]
-    # Enable comments by entering your Disqus shortname
-    [services.disqus]
-    # Enable Google Analytics by entering your tracking code
-    [services.googleAnalytics]
+[[menu.main]]
+    name       = "Contact"
+    url        = "/contact/"
+    weight     = 6
 
 # Define the number of posts per page
 [pagination]
     pagerSize = 10
 
-
-# Top bar social links menu
-
-[[menu.topbar]]
-    weight = 1
-    name = "Email"
-    url = "mailto:info@confconf.org"
-    pre = "<i class='fas fa-2x fa-envelope'></i>"
-
 [params]
-    viewMorePostLink = "/blog/"
+    viewMorePostLink = false
     author = "ConfConf Team"
     defaultKeywords = ["confconf"]
     mainSections = []
@@ -188,13 +79,6 @@ pluralizelisttitles = false
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "" # the Twitter handle of your site (without the '@')
     default_sharing_image = ""
-
-    # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-    enableGoogleMaps = false
-    googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
-
-    latitude = "42.6789202"
-    longitude = "23.3196688"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "turquoise"
@@ -244,25 +128,14 @@ pluralizelisttitles = false
     disabled_logo = false
     logo_text = "ConfConf"
 
-    logo = "logo.svg"
-    logo_small = "logo.svg"
+    logo = "logo-transparent.png"
+    logo_small = "logo-transparent.png"
     contact_url = "/contact/"
-    address = """<p class="text-uppercase"><strong>ConfConf</strong>
+    address = """<p class="text-uppercase"><strong>FOSDEM vzw c/o ConfConf</strong>
         <br>Guldendelle 9
         <br>1930 Zaventem
          <br>
         <strong>Belgium</strong>
-      </p>
-      """
-
-[permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
-
-# Enable or disable top bar with social icons
-[params.topbar]
-    enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on info@confconf.org.</p>
-      <p class="hidden-md hidden-lg"><a href="mailto:info@confconf.org" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
@@ -272,42 +145,6 @@ pluralizelisttitles = false
     tags = true
     search = true
 
-[params.carouselCustomers]
-    items = 6
-    auto_play = false
-    slide_speed = 2000
-    pagination_speed = 1000
-
-[params.carouselTestimonials]
-    items = 4
-    auto_play = false
-    slide_speed = 2000
-    pagination_speed = 1000
-
-[params.carouselHomepage]
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more information take a look at the README.
-    enable = false
-    auto_play = true
-    slide_speed = 2000
-    pagination_speed = 1000
-
-[params.features]
-    enable = false
-    cols = 3 # Default: 3, Available values 2,3,4,6
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
-    # For more information take a look at the README.
-
-[params.testimonials]
-    enable = false
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more information take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
-
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
@@ -316,18 +153,10 @@ pluralizelisttitles = false
     link_url = "https://matrix.to/#/#confconf:matrix.org"
     link_text = "Join us on Matrix"
 
-[params.clients]
-    enable = false
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
-    # For more information take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
-
 [params.recent_posts]
     enable = false
-    about = "The idea is simple: a free, unconference-style gathering where we share experiences, challenges, and ideas about organizing FOSS events. We know a lot of us are struggling with the same challenges, and we hope that by getting together, we can all learn from another."
-    practical = "The first edition, ConfConf 0, will take place in Sofia (Bulgaria) on the 5th and 6th of July 2025. See our tickets page for more information."
+    about = "The idea is simple: a free, unconference-style gathering where we share experiences, challenges, and ideas about organizing FOSS events. We know a lot of us are struggling with the same challenges, and we hope that by getting together, we can all learn from one another."
+    practical = "The first edition, ConfConf 2025, will take place in Sofia (Bulgaria) on the 5th and 6th of July 2025. See our tickets page for more information."
     program = "The event will be kickstarted with an opening keynote, and each day will be wrapped up with a summary session — but beyond that, the content will come from the participants."
 
     hide_summary = false
@@ -339,4 +168,3 @@ pluralizelisttitles = false
     category = "categories"
     tag = "tags"
     author = "authors"
-

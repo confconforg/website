@@ -8,22 +8,22 @@ We have negotiated preferential rates at [Hemus Hotel](https://www.hemushotels.c
 
 ## Rates
 
-Note that the rates include breakfast, the ones on the site don't, so they might seem cheaper. They also include tourist tax, VAT and insurance.
+The rates below include tourist tax, VAT and insurance. The price between brackets is the preferential rate (as shown by default on the hotel website).
 
 ### Rooms
 
-  * Classic - single: 110 BGN (56.24 EUR)
-  * Classic - double: - 150 BGN (76.70 EUR)
-  * Business - single: 157 BGN (80.28 EUR)
-  * Business - single: 194 BGN (99.19 EUR)
-  * Standard - single: 89 BGN (45.51 EUR)
-  * Standard - double: 122 BGN (62.38 EUR)
+  * Standard - single: 47 EUR (37 EUR)
+  * Standard - double: 64 EUR (44 EUR)
+  * Classic - single: 58 EUR (48 EUR)
+  * Classic - double: 80 EUR (60 EUR)
+  * Business - single: 84 EUR (74 EUR)
+  * Business - double: 104 EUR (84 EUR)
 
 ### Apartments
 
-  * Apartment Hemus - single: 142 BGN (72.61 EUR)
-  * Apartment Hemus - double: 186 BGN (95.10 EUR)
-  * Apartment Hemus - triple: 230 BGN (117.60 EUR)
-  * Apartment VIP - single: 162 BGN (82.83 EUR)
-  * Apartment VIP - double: 206 BGN (105.33 EUR)
-  * Apartment VIP - triple: 250 BGN (127.83 EUR)
+  * Apartment Hemus - single: 75 EUR (65 EUR)
+  * Apartment Hemus - double: 98 EUR (78 EUR)
+  * Apartment Hemus - triple: 121 EUR (91 EUR)
+  * Apartment VIP - single: 86 EUR (76 EUR)
+  * Apartment VIP - double: 110 EUR (90 EUR)
+  * Apartment VIP - triple: 132 EUR (102 EUR)

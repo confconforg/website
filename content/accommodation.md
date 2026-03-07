@@ -4,11 +4,19 @@ title: Accommodation
 
 # Accommodation
 
-We have negotiated preferential rates at [Hemus Hotel](https://www.hemushotels.com/). To book a room, please contact marketing (at) hemushotels (dot) com and mention that you're attending ConfConf.
+We have negotiated preferential rates at
+[Hemus Hotel](https://www.hemushotels.com/en/). To book a room, please contact
+marketing (at) hemushotels (dot) com and mention that you're attending ConfConf.
+
+If you need assistance, get in touch with the organisers!
 
 ## Rates
 
-The rates below include tourist tax, VAT and insurance. The price between brackets is the preferential rate (as shown by default on the hotel website).
+The rates below include breakfast, tourist tax, VAT and insurance. If you prefer
+booking without included breakfast, then see the price between brackets.
+
+Note that the prices shown on the website of the hotel exclude breakfast by
+default.
 
 ### Rooms
 

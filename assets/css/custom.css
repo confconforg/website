@@ -1,0 +1,75 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
+}
+
+body > div.hextra-max-page-width {
+  flex: 1;
+}
+
+.hextra-max-page-width > main,
+.hextra-max-page-width > article {
+  min-height: unset;
+}
+
+/* top bar with the dates and location */
+.site-info-bar {
+  background-color: #f3f4f6;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 1.2rem;
+  color: #374151;
+}
+
+.dark .site-info-bar {
+  background-color: #1f2937;
+  border-bottom-color: #374151;
+  color: #d1d5db;
+}
+
+.site-info-bar-inner {
+  max-width: var(--hextra-max-navbar-width);
+  margin: 0 auto;
+  padding: 0.4rem 1.5rem;
+}
+
+/* homepage header image */
+.site-header-image {
+  position: relative;
+  width: 100%;
+  height: clamp(80px, 15vw, 150px);
+  background: url('/header.jpg') center / cover no-repeat;
+  box-shadow: inset 0 8px 12px -4px rgba(0, 0, 0, 0.4);
+}
+
+.site-header-image::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, transparent 40%, rgba(0, 0, 0, 0.5));
+}
+
+/* homepage content */
+.home-hero {
+  width: 100%;
+  padding: 0rem 0 2rem;
+}
+
+.home-hero > * {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-about {
+  width: 100%;
+  margin: 2rem auto 2.5rem;
+  line-height: 1.7;
+}
+
+
+.home-about h3 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.3rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}

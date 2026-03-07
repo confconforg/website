@@ -28,7 +28,13 @@ Taxis from the airport are regulated and should be safe to trust. Tell your taxi
 
 ## Food
 
-Lunch and coffee breaks will be provided at the venue.
+Lunch and coffee breaks with snacks will be provided throughout the conference.
 
 In addition, all participants will be invited to join the group dinners on
 Friday, Saturday and Sunday evening. More details to follow.
+
+## T-shirts
+
+Provided time and logistics line up (no promises!), we will provide t-shirts as
+a memento. When booking your ticket, please indicate your desired t-shirt size
+if you would like to get one.

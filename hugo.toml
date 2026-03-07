@@ -22,6 +22,7 @@ disablePathToLower = true
     displayLogo = true
     [params.navbar.logo]
       path = "logo-transparent.png"
+      dark = "logo-transparent-light.png"
       width = "83"
       height = "32"
 

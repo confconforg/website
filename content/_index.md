@@ -4,21 +4,16 @@ layout: hextra-home
 ---
 
 <div class="home-hero">
-  {{< hextra/hero-headline >}}
-    ConfConf 2026
-  {{< /hextra/hero-headline >}}
+  {{< hextra/hero-headline >}}ConfConf 2026{{< /hextra/hero-headline >}}
 
-  {{< hextra/hero-subtitle >}}
-    A free conference for organisers of conferences around free and open source software and hardware, and the surrounding ecosphere.
-  {{< /hextra/hero-subtitle >}}
+  {{< hextra/hero-subtitle >}}A free conference for organisers of conferences around free and open source software and hardware, and the surrounding ecosphere.{{< /hextra/hero-subtitle >}}
 
   <p>&nbsp;</p>
 
-  {{< hextra/feature-grid cols=6 >}}
-      {{< hextra/hero-button text="Get tickets" link="/tickets/" >}}
-
-      {{< hextra/hero-button text="Join us on Matrix" link="https://matrix.to/#/#confconf:matrix.org" style="background-color: #f3f4f6; color: #4b5563; border: 1px solid #e5e7eb;" >}}
-  {{< /hextra/feature-grid >}}
+  <div class="home-buttons">
+    {{< hextra/hero-button text="Get tickets" link="/tickets/" >}}
+    {{< hextra/hero-button text="Join us on Matrix" link="https://matrix.to/#/#confconf:matrix.org" style="background-color: #f3f4f6; color: #4b5563; border: 1px solid #e5e7eb;" >}}
+  </div>
 </div>
 
 <div class="home-about">

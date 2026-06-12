@@ -42,7 +42,7 @@ How different conferences select and schedule talks.
 
 **Lightning talk selection methods:**
 - Chemnitzer Linux-Tage: Postcards, random selection
-- OpenFest: First come, first served sign-up
+- OpenFest: First come, first serve sign-up
 - FOSSASIA: Pre-record, publish automatically
 - OpenChain: Attendee voting
 
@@ -54,7 +54,7 @@ Keynotes and invited talks are staff picks, sometimes intentional to fill gaps o
 - **Recycled talks:** Some events limit repeats to 30%. Others ask for recordings.
 - **Topic trends:** Everyone wants Kubernetes and DevOps. Harder to find other topics.
 - **Celebrity speakers:** Some draw crowds regardless of topic quality
-- **New vs returning:** DevConf.IN targets 40% new speakers. Hard to balance.
+- **New vs returning:** DevConf.IN targets 40% new speakers. Hard to balance. Wanted 50%, but was impossible
 - **Prolific submitters:** Some people submit dozens of proposals (DevConf had one with 14)
 - **AI-generated submissions:** Starting to appear. Some events detect or flag.
 - **Visa requirements:** Need advance notice and invitation letters

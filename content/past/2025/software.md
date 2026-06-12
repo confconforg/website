@@ -16,7 +16,7 @@ Everyone uses different stuff depending on budget and what they need:
 - **Pretalx** - Self-hosted CFP system used by FOSDEM, COSCUP, BalCcon. Open source. Customizable via plugins.
 - **Pretix** - Ticketing system, often paired with Pretalx for an integrated stack.
 - **Eventbrite** - Proprietary, high fees. Provides email to attendees but not always full data.
-- **Eventyay** - Open source platform combining CFP, ticketing, and video. Fewer mature than Pretalx but growing.
+- **Eventyay** - Open source platform combining CFP, ticketing, and video. Less mature than Pretalx but growing.
 - **Sessionize** - Used by CNCF conferences. Has API and automation. Free for free conferences.
 - **Lu.ma** - Newer alternative mentioned by some conferences, though closed-source.
 

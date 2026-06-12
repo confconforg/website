@@ -10,7 +10,7 @@ Getting people to help out.
 ## Finding volunteers
 
 - **Just ask** - "Hey, can you help us with this? We need people" works. People like being asked.
-- **Want, don't obligation** - Look for people who actually want to help, not people doing it because they feel like they have to.
+- **Want, not because of obligation** - Look for people who actually want to help, not people doing it because they feel like they have to.
 - **Make it visible** - Let people know you need help. A lot of times they want to pitch in but don't know how to offer.
 
 ## Keeping it fair

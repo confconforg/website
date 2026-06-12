@@ -11,7 +11,7 @@ How to pay for the conference.
 
 - **Free entry, sponsored** - Many FOSS conferences are free and sponsors pick up the tab.
 - **Ask for donations** - Open Collective, bank transfers, WordPress plugins.
-- **Merch** - T-shirts and stickers via Shopify + Printful. Not a money maker but people like having them.
+- **Merch** - T-shirts and stickers via Shopify + Printful. Not a money maker, but people like having them.
 - **Grants** - Talk to foundations and community groups.
 
 ## Sponsors

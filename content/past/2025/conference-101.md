@@ -33,7 +33,7 @@ Getting started organizing a conference.
 
 - Plan ahead
 - Write down what you learn
-- Think about what went wrong after
+- Think about what went wrong, but after the event
 - Ask for help
 - Start simple
 
@@ -41,7 +41,7 @@ Getting started organizing a conference.
 
 - Over-plan. Leave room for people to make things happen.
 - Assume people won't help. They usually will.
-- Make food cheap. People remember food.
+- Make food crappy. People remember food.
 - Try to do this alone.
 - Wait until the last minute to figure out speakers.
 

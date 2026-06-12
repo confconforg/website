@@ -1,6 +1,10 @@
 ---
 title: Tickets
+params:
+  sidebar:
+    hide: true
 ---
+
 
 As the conference is aimed at conference organisers, tickets are available by
 invitation only. If you would like to attend but didn't receive an invitation,

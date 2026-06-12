@@ -61,6 +61,11 @@ disablePathToLower = true
     weight     = 6
 
 [[menu.main]]
+    name       = "Past Events"
+    url        = "/past/"
     weight     = 7
+
+[[menu.main]]
+    weight     = 8
     [menu.main.params]
       type = "theme-toggle"

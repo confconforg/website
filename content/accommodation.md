@@ -1,8 +1,10 @@
 ---
 title: Accommodation
+params:
+  sidebar:
+    hide: true
 ---
 
-# Accommodation
 
 We have negotiated preferential rates at
 [Hemus Hotel](https://www.hemushotels.com/en/). To book a room, please contact

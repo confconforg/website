@@ -1,6 +1,10 @@
 ---
 title: Program
+params:
+  sidebar:
+    hide: true
 ---
+
 
 ConfConf uses the *[unconference](https://en.wikipedia.org/wiki/Unconference)*
 format, where participants provide most of the content themselves and there is

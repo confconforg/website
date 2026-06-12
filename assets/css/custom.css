@@ -78,3 +78,8 @@ body > div.hextra-max-page-width {
   flex-wrap: wrap;
   gap: 0.75rem;
 }
+
+/* Left-align h1 headings in content */
+main h1 {
+  text-align: left !important;
+}

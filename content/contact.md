@@ -1,6 +1,10 @@
 ---
 title: Contact
+params:
+  sidebar:
+    hide: true
 ---
+
 
 ConfConf 2026 is organised by [FOSDEM](https://fosdem.org/contact).
 

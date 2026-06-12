@@ -1,6 +1,10 @@
 ---
 title: Practical
+params:
+  sidebar:
+    hide: true
 ---
+
 
 ## Funding
 

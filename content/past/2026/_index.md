@@ -72,3 +72,7 @@ People shared what actually works and what doesn't. We talked about conference s
 - OpenFest
 - P.I.W.O.
 - PromCon
+
+## Organization and funding
+
+ConfConf 2026 was organized by Gerry Demaret, Pieter De Praetere, Richard Hartmann and Vasil Kolev, and was funded by [FOSDEM](https://fosdem.org) and [Grafana Labs](https://grafana.com/).

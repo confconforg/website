@@ -62,3 +62,7 @@ The unconference format really worked. People organized their own sessions, we d
 - PromCon
 - Schrödinger Hat
 - SIGPLAN-AV
+
+## Organization and funding
+
+ConfConf 2025 was organized by Gerry Demaret, Pieter De Praetere, Richard Hartmann and Vasil Kolev, and was funded by [FOSDEM](https://fosdem.org) and [Grafana Labs](https://grafana.com/).

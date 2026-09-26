@@ -1,10 +1,10 @@
 ---
-title: ConfConf 2026
+title: ConfConf 2027
 layout: hextra-home
 ---
 
 <div class="home-hero">
-  {{< hextra/hero-headline >}}ConfConf 2026{{< /hextra/hero-headline >}}
+  {{< hextra/hero-headline >}}ConfConf 2027{{< /hextra/hero-headline >}}
 
   {{< hextra/hero-subtitle >}}A free conference for organisers of conferences around free and open source software and hardware, and the surrounding ecosphere.{{< /hextra/hero-subtitle >}}
 
@@ -20,13 +20,13 @@ layout: hextra-home
 
   ### About ConfConf
 
-  After the first edition in July 2025 brought together particpants representing over 30 organisations, we are now setting up for the next one!
+  After the editions of 2025 and 2026 which brought together particpants representing over 30 organisations, we are now setting up for the next one!
 
   The idea is simple: a free, unconference-style gathering where we share experiences, challenges, and ideas about organizing FOSS events. We know a lot of us are struggling with the same challenges, and we hope that by getting together, we can all learn from one another.
 
   ### Practical
 
-  ConfConf 2026 will take place in Sofia (Bulgaria) on the 6th and 7th of June 2026. See our [tickets](/tickets/) page for more information.
+  ConfConf 2027 will take place in Bangkok (Thailand) on the 12th and 13th of March 2027, which is the weekend after the [FOSSASIA Summit 2027](https://eventyay.com/fossasia/summit2027/). See our [tickets](/tickets/) page for more information.
 
   ### Program
 

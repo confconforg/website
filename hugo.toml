@@ -1,6 +1,6 @@
 baseURL = 'https://confconf.org/'
 languageCode = 'en-us'
-title = 'ConfConf 2026'
+title = 'ConfConf 2027'
 
 enableRobotsTXT = true
 disablePathToLower = true

@@ -6,7 +6,7 @@ params:
 ---
 
 
-ConfConf 2026 is organised by [FOSDEM](https://fosdem.org/contact).
+ConfConf 2027 is organised by [FOSDEM](https://fosdem.org/contact).
 
 If you want to get in touch with the other participants, join the
 [Matrix](https://matrix.to/#/#confconf:matrix.org) channel.

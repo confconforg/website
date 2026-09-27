@@ -1,0 +1,36 @@
+name: Deploy to Codeberg Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: codeberg-tiny
+    if: ${{ forge.ref == 'refs/heads/main' }}
+    env:
+      HUGO_VERSION: "0.147.9"
+    steps:
+      - name: Check out
+        uses: https://code.forgejo.org/actions/checkout@v4
+
+      - name: Install Hugo
+        run: |
+          mkdir -p "$HOME/.hugo-bin"
+          curl -sSL "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz" \
+            | tar -xz -C "$HOME/.hugo-bin" hugo
+          "$HOME/.hugo-bin/hugo" version
+
+      - name: Build
+        run: |
+          rm -rf public
+          "$HOME/.hugo-bin/hugo" --gc --minify
+
+      - name: Publish
+        uses: https://codeberg.org/git-pages/action@v2
+        with:
+          site: https://confconf.org/
+          server: codeberg.page
+          token: ${{ forge.token }}
+          source: public

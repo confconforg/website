@@ -6,7 +6,7 @@ params:
 ---
 
 
-ConfConf 2027 is organised by [FOSDEM](https://fosdem.org/contact).
+ConfConf 2027 is co-organised by [FOSDEM](https://fosdem.org/contact) and [FOSSASIA](https://fossasia.org)
 
 If you want to get in touch with the other participants, join the
 [Matrix](https://matrix.to/#/#confconf:matrix.org) channel.
@@ -16,11 +16,12 @@ like to follow us there.
 
 ## Address
 
-FOSDEM vzw c/o ConfConf\
-Guldendelle 9\
-1930 Zaventem
+FOSSASIA c/o ConfConf
 
-VAT BE 0477.085.590
+UEN: 201702892N
+
+883 North Bridge Road, #02-03, Southbank, Singapore 198785
+
 
 ## Contact
 

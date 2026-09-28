@@ -89,7 +89,7 @@ Suvarnabhumi takes 45 to 90 minutes.
 Lunch and coffee breaks with snacks will be provided throughout the conference.
 
 In addition, all participants will be invited to join the group dinners on
-Friday, Saturday and Sunday evening. More details to follow.
+Thursday, Friday and Saturday evening. More details to follow.
 
 ## T-shirts
 

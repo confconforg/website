@@ -6,11 +6,11 @@ params:
 ---
 
 
-We have negotiated a special group rate at [KU Home Hotel](https://www.ku-homepmku.com/), located on the Kasetsart University campus just a few steps from the venue.
+We have negotiated a special group rate at [KU Home Hotel](https://www.ku-home.ku.ac.th), located on the Kasetsart University campus just a few steps from the venue.
 
 ## Hotel details
 
-- **Website:** [KU Home Hotel](https://www.ku-homepmku.com/)
+- **Website:** [KU Home Hotel](https://www.ku-home.ku.ac.th)
 - **Rate:** 750 THB per night
 - **Address:** KU Home, 50 Ngamwongwan Rd, Lat Yao, Chatuchak, Bangkok 10900, Thailand
 - **Room types:** Twin (2 single beds) or Double (1 large bed), subject to availability
